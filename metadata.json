@@ -1,0 +1,10 @@
+{
+  "name": "RYVA Luxury E-Commerce",
+  "description": "A premium, cinematic e-commerce platform for the luxury streetwear brand RYVA, featuring AI styling and 3D product showcases.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
